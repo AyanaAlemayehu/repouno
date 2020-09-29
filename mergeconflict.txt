@@ -1,5 +1,0 @@
-Hi man
-
-this will cause a merge conflict
-
-solve it :)
